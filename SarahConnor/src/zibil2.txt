@@ -1,0 +1,4 @@
+{
+  "greetings_az": "deyishbunu",
+  "greetings_en": "changeit" 
+}
